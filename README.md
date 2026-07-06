@@ -4,12 +4,11 @@ MS Computer Science @ Texas Tech University | ex-Accenture Software Engineer
 Focused on AI Engineering and Machine Learning Systems.
 
 ## Projects
-
 | Project | Description |
 |---|---|
 | [GovSim](https://github.com/siddharthaBollam/govsim) | Reproduction of GovSim (NeurIPS 2024) — multi-agent LLM simulation of shared resource governance |
 | [Evolve-AOA](https://github.com/siddharthaBollam/evolve-aoa) | LLM-guided evolutionary optimization with human feedback |
-| [NIDS]([https://github.com/siddharthaBollam/network-intrusion-detection-ml]) | ML-based network intrusion detection on NSL-KDD and UNSW-NB15 |
+| [NIDS](https://github.com/siddharthaBollam/network-intrusion-detection-ml) | ML-based network intrusion detection on NSL-KDD and UNSW-NB15 |
 | [DocMind](https://github.com/siddharthaBollam/DocMind) | Multi-agent RAG pipeline with hybrid retrieval and Gemini API |
 | [AI-Journal](https://github.com/siddharthaBollam/AI-Journal) | Local AI journaling app built with FastAPI, Ollama, and SQLite |
 
